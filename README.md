@@ -10,7 +10,7 @@ DESCRIPTION:
                   Main.py     > Maintains the flow of the program to produce the intended output.
 
                   Map.py      > Has classes responsible about reading the map file, and organizing    
-                                the points, utiliti functions like calculating the Manhatten distance, etc.
+                                the points, utility functions like calculating the Manhatten distance, etc.
 
                   Agent_TSP   > Has the classes responsible about solving the TSP problem. classes to maintain
                                 the States, Nodes, Agent, Solution .. etc 
@@ -27,7 +27,7 @@ DESCRIPTION:
 
 HOW TO COMPILE:
 
-      All what you need to do is to open Main.py, put the name of the file that contains the map.
+      All what you need to do is to run Main.py, enter the name of the file that contains the map.
       Choose if you want an animation
       and then run.
 
