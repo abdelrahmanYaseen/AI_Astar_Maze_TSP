@@ -7,6 +7,7 @@ This code is an implementation of A* algorithm to find the shortest path
 between each pair of points in a given maze as a first step.
 Then it solves the TSP problem between these points, using both BFS and UFS, and compares their performance. 
 Please check the assignment's document for further details. 
+
 DESCRIPTION:
 
       The code folder has 7 files:
